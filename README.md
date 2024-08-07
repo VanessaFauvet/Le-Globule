@@ -13,9 +13,10 @@ On réalisera le sous-menu suivant :
 Le texte est indifférent. Vous pouvez utiliser un générateur de texte latin (par exemple : https://fr.lipsum.com/ ),
 l’important est que la proportion de texte soit respectée.
 
-Tableau des tailles :
 ![image](https://github.com/user-attachments/assets/d7792f42-7153-47a7-9655-17370a1aa5f7)
+
 ![image](https://github.com/user-attachments/assets/a7954e5b-dc58-4539-ada1-ad4dde3a2f24)
+
 ![image](https://github.com/user-attachments/assets/01ed648f-8567-467e-a93f-2f7a3ebfff4e)
 
 Vous trouverez les images en annexe (dossier « img-exercices-1 », ainsi qu’une copie d’écran taille réelle de la
