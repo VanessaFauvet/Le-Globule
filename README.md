@@ -6,9 +6,8 @@ Vous devez réaliser un gabarit de page avec les contraintes suivantes :
 2. Des balises structurantes.
 
 On réalisera le sous-menu suivant :
-1. Roll-over item « Tous nos choix »
 ![image](https://github.com/user-attachments/assets/0c406039-0a03-4ff4-a1df-884b77180d32)
-2. Roll-over item « Triangles ronds »
+
 ![image](https://github.com/user-attachments/assets/1bf297a5-c2e0-45e1-b7d6-caac8bdb4700)
 
 Le texte est indifférent. Vous pouvez utiliser un générateur de texte latin (par exemple : https://fr.lipsum.com/ ),
