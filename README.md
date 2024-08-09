@@ -9,8 +9,8 @@
 Vous devez réaliser un gabarit de page avec les contraintes suivantes :
 
 1. Utilisation obligatoire des méthodes avec display (pas de flexbox).
-2. 
-3. Des balises structurantes.
+
+2. Des balises structurantes.
 
 ## Consignes
 
